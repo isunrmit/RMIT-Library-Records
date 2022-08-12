@@ -13,11 +13,19 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.fail;
 
-class LendingManagerImplTestCheckRI {
+class RMITLibraryRecordsDAOTestSave {
+
+    //examples only.
 
     @Test
-    @DisplayName("Example Display name ")
-    void checkRecordIntegrity() {
+    @DisplayName("Example")
+    void findByBook() {
+        fail("not implemented yet. Just an example test method.");
+    }
+
+    @Test
+    @DisplayName("Example2")
+    void save() {
         fail("not implemented yet. Just an example test method.");
     }
 }
